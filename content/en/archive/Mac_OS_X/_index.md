@@ -1,15 +1,13 @@
 ---
 title: "Security Guide: Mac OS X 10.14 Mojave"
-linkTitle: "Mac OS X"
+linkTitle: "MacOS 10.14 Mojave"
 weight: 2
-description: >
-  Security guide for Mac OS X
 
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+{{< alert color="warning" title="Archived" >}}You are viewing an archived snapshot.  This document is no longer updated or maintained.
+
+[The security guide for the latest version of MacOS can be accessed here.](/docs/mac_os_x)  {{< /alert >}}
 
 ## Software Update
 
