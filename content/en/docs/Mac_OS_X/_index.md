@@ -1,15 +1,11 @@
 ---
-title: "Security Guide: Mac OS X 10.14 Mojave"
+title: "Security Guide: Mac OS X 10.15 Mojave"
 linkTitle: "Mac OS X"
 weight: 2
 description: >
   Security guide for Mac OS X
 
 ---
-
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
 
 ## Software Update
 
