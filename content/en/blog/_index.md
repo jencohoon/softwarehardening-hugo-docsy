@@ -1,9 +1,6 @@
 ---
 title: "Articles"
 linkTitle: "Articles"
-menu:
-  main:
-    weight: 30
 ---
 
 
