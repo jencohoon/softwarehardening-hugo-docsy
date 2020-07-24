@@ -200,7 +200,7 @@ We need to configure similar settings for the Battery that we did for the Power 
 
 ![macOS Energy Saver - Battery](/assets/macOS/Mojave/macOS-ESBattery.jpg)
 
-*__Congifure a Schedule to shudown MacOS.__* When macOS is shutdown, the data on the computer is secure, it is good security practice to shutdown macOS whenever the computer is not not actively in use.  Setting an Energy Saver Schedule to automatically shutdown macOS at a specific time is a good way to secure macOS for several hours while the computer is not in use, for instance while the User sleeps.  If a User is still actively using macOS when the Schedule occurs, macOS will prompts the User that the Scheduled activity is about to occur, and the User can interrupt the shutdown. To configure go to:
+*__Congifure a Schedule to shutdown MacOS.__* When macOS is shutdown, the data on the computer is secure, it is good security practice to shutdown macOS whenever the computer is not not actively in use.  Setting an Energy Saver Schedule to automatically shutdown macOS at a specific time is a good way to secure macOS for several hours while the computer is not in use, for instance while the User sleeps.  If a User is still actively using macOS when the Schedule occurs, macOS will prompts the User that the Scheduled activity is about to occur, and the User can interrupt the shutdown. To configure go to:
 
 * Launch "System Preferences"
 * Click "Energy Saver"

@@ -7,16 +7,15 @@ description: >
 ---
 
 {{% pageinfo %}}
-These basic sample guidelines assume that your Docsy site is deployed using Netlify and your files are stored in GitHub. You can use the guidelines "as is" or adapt them with your own instructions: for example, other deployment options, information about your doc project's file structure, project-specific review guidelines, versioning guidelines, or any other information your users might find useful when updating your site. [Kubeflow](https://github.com/kubeflow/website/blob/master/README.md) has a great example.
-
 Don't forget to link to your own doc repo rather than our example site! Also make sure users can find these guidelines from your doc repo README: either add them there and link to them from this page, add them here and link to them from the README, or include them in both locations.
 {{% /pageinfo %}}
 
+We welcome new additions and edits to the Security Guides.
+
 We use [Hugo](https://gohugo.io/) to format and generate our website, the
-[Docsy](https://github.com/google/docsy) theme for styling and site structure, 
-and [Netlify](https://www.netlify.com/) to manage the deployment of the site. 
-Hugo is an open-source static site generator that provides us with templates, 
-content organisation in a standard directory structure, and a website generation 
+[Docsy](https://github.com/google/docsy) theme for styling and site structure.
+Hugo is an open-source static site generator that provides us with templates,
+content organisation in a standard directory structure, and a website generation
 engine. You write the pages in Markdown (or HTML if you want), and Hugo wraps them up into a website.
 
 All submissions, including submissions by project members, require review. We
@@ -24,7 +23,7 @@ use GitHub pull requests for this purpose. Consult
 [GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
 information on using pull requests.
 
-## Quick start with Netlify
+## Quick start with Hugo and Docsy
 
 Here's a quick guide to updating the docs. It assumes you're familiar with the
 GitHub workflow and you're happy to use the automated preview of your doc
@@ -32,15 +31,15 @@ updates:
 
 1. Fork the [Goldydocs repo](https://github.com/google/docsy-example) on GitHub.
 1. Make your changes and send a pull request (PR).
-1. If you're not yet ready for a review, add "WIP" to the PR name to indicate 
-  it's a work in progress. (**Don't** add the Hugo property 
-  "draft = true" to the page front matter, because that prevents the 
+1. If you're not yet ready for a review, add "WIP" to the PR name to indicate
+  it's a work in progress. (**Don't** add the Hugo property
+  "draft = true" to the page front matter, because that prevents the
   auto-deployment of the content preview described in the next point.)
 1. Wait for the automated PR workflow to do some checks. When it's ready,
   you should see a comment like this: **deploy/netlify — Deploy preview ready!**
 1. Click **Details** to the right of "Deploy preview ready" to see a preview
   of your updates.
-1. Continue updating your doc and pushing your changes until you're happy with 
+1. Continue updating your doc and pushing your changes until you're happy with
   the content.
 1. When you're ready for a review, add a comment to the PR, and remove any
   "WIP" markers.
@@ -77,5 +76,3 @@ If you've found a problem in the docs, but you're not sure how to fix it yoursel
 * [Docsy user guide](wherever it goes): All about Docsy, including how it manages navigation, look and feel, and multi-language support.
 * [Hugo documentation](https://gohugo.io/documentation/): Comprehensive reference for Hugo.
 * [Github Hello World!](https://guides.github.com/activities/hello-world/): A basic introduction to GitHub concepts and workflow.
-
-
