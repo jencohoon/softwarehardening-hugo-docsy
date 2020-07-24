@@ -1,6 +1,7 @@
 ---
 title: "Getting Started"
 linkTitle: "Getting Started"
+toc_hide: true
 weight: 2
 description: >
   What does your user need to know to try your project?
