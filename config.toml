@@ -152,9 +152,4 @@ enable = false
 	url = "https://github.com/jzinner/softwarehardening-hugo-docsy"
 	icon = "fab fa-github"
         desc = "Submit new content, propose fixes, or clone our code repository here!"
-[[params.links.developer]]
-	name = "Slack"
-	url = "https://example.org/slack"
-	icon = "fab fa-slack"
-        desc = "Chat with other project developers active on Github"
 
