@@ -1,4 +1,3 @@
-
 ---
 title: "Documentation"
 linkTitle: "Documentation"
@@ -8,14 +7,16 @@ menu:
     weight: 20
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+The "Documentation" section contains current Security Guides. To use a Security Guide, choose the Operating System from the left-side menu.
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project.
+## Document Navigation
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section.
+The right-side menu contains links to all the headings within the current page. These links allow you to jump to a specific section within the current page.  They are called "Breadcrumb Navigation" or "anchor links."
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
+## Time to Complete
 
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
+Expect to spend 30 minutes to 1 hour working through a Security Guide.  Security Guides are designed to contain all possible security implementations for the operating system.
+
+## Archived Documents
+
+Running the latest version of an operating system provides the best security.  If you are running an older version you may find Security Guides for old versions in the [Archive](/archive/).
