@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Hardening Foundation – Security Guide: Chrome OS 76</title>
+    <link>/docs/chromeos/</link>
+    <description>Recent content in Security Guide: Chrome OS 76 on Software Hardening Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/docs/chromeos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
