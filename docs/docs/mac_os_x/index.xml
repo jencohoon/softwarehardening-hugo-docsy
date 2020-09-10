@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Hardening Foundation – Security Guide: Mac OS X 10.15 Mojave</title>
+    <link>/docs/mac_os_x/</link>
+    <description>Recent content in Security Guide: Mac OS X 10.15 Mojave on Software Hardening Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/docs/mac_os_x/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
