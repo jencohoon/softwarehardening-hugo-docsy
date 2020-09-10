@@ -1,6 +1,9 @@
 baseURL = "/"
 title = "Software Hardening Foundation"
 
+# build hugo to the docs folder to use Github Pages to serve the project
+publishDir = "docs"
+
 enableRobotsTXT = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
