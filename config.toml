@@ -7,7 +7,9 @@ publishDir = "docs"
 enableRobotsTXT = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
+remote_theme = "jzinner/softwarehardening-hugo-docsy"
 theme = ["docsy"]
+
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true
