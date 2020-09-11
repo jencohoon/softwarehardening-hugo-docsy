@@ -1,11 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Hardening Foundation – Archive</title>
-    <link>/archive/</link>
+    <link>/softwarehardening-hugo-docsy/archive/</link>
     <description>Recent content in Archive on Software Hardening Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     
-	  <atom:link href="/archive/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/softwarehardening-hugo-docsy/archive/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +16,10 @@
     
     <item>
       <title>Archive: Example Page</title>
-      <link>/archive/getting-started/example-page/</link>
+      <link>/softwarehardening-hugo-docsy/archive/Getting-started/example-page/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/archive/getting-started/example-page/</guid>
+      <guid>/softwarehardening-hugo-docsy/archive/Getting-started/example-page/</guid>
       <description>
         
         
@@ -316,10 +317,10 @@ This is a warning with a title.
     
     <item>
       <title>Archive: Parameter Reference</title>
-      <link>/archive/reference/parameter-reference/</link>
+      <link>/softwarehardening-hugo-docsy/archive/Reference/parameter-reference/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/archive/reference/parameter-reference/</guid>
+      <guid>/softwarehardening-hugo-docsy/archive/Reference/parameter-reference/</guid>
       <description>
         
         

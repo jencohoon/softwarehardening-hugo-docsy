@@ -1,11 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Hardening Foundation – About</title>
-    <link>/about/</link>
+    <link>/softwarehardening-hugo-docsy/about/</link>
     <description>Recent content in About on Software Hardening Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     
-	  <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/softwarehardening-hugo-docsy/about/index.xml" rel="self" type="application/rss+xml" />
     
     
       
