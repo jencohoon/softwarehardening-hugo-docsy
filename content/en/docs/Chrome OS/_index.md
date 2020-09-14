@@ -1,6 +1,6 @@
 ---
 title: "Security Guide: Chrome OS 76"
-linkTitle: "ChromeOS"
+linkTitle: "Chrome OS"
 weight: 2
 description: >
   Security guide for Chrome OS
