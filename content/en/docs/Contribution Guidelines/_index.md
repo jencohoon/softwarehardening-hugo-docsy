@@ -1,6 +1,6 @@
 ---
 title: "Contribution Guidelines"
-linkTitle: "Contribution guidelines"
+linkTitle: "Contribution Guidelines"
 weight: 10
 description: >
  Additions and edits to Security Guide documents are welcome.
